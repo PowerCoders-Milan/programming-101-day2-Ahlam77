@@ -5,8 +5,8 @@ and ask the user to print a text ex : Print text please
 the last step print the text and the numbers
 
 here
-
 *
+*/
 
 //insert your code below
 var text, number_text;
