@@ -1,7 +1,10 @@
 //insert your pseudocode below
-/*we 2 var the first is name the second the greatting 
-abd ask the user to put his name ex: enter your name.
+/* we want to creat a small porgram saying greeting with the user name 
+
 here
+we 2 var the first is name the second the greatting 
+ask the user to put his name .
+ex: enter your name.
 
 */
 
